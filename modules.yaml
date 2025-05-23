@@ -22,3 +22,37 @@ modules:
       0: null
     height: 2
     width: 1
+  - name: sonos_flash_party
+    x: 7
+    y: 10
+    pg_vaa: true
+    height: 2
+    width: 1
+    analog:
+      0: null
+  - name: 4Bit_SAR_ADC
+    x: 0
+    y: 10
+    height: 2
+    width: 1
+    analog:
+      0: null
+  - name: cw_vref
+    x: 6
+    y: 7
+    pg_vaa: true
+    height: 2
+    width: 2
+    analog:
+      0: null
+      1: null
+      2: null
+  - name: tt08_aicd_playground
+    x: 0
+    y: 7
+    pg_vaa: true
+    height: 2
+    width: 2
+    analog:
+      0: null
+      1: null
