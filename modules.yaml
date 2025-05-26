@@ -56,3 +56,16 @@ modules:
     analog:
       0: null
       1: null
+# Specific analog pin assignment for Sylvain's project:
+  - name: tnt_diff_rx
+    x: 15
+    y: 19
+    height: 2
+    width: 1
+    analog:
+      0: 5
+      1: 0
+      2: 4
+      3: 1
+      4: 3
+      5: 2
