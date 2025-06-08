@@ -1,9 +1,0 @@
-{
-  "app": "Tiny Tapeout tt10 8f10bc8c",
-  "repo": "https://github.com/lucapezza/tt10_luke_clock",
-  "commit": "65ce25086080c18286ab8e9ca047be25f8d88df2",
-  "workflow_url": "https://github.com/lucapezza/tt10_luke_clock/actions/runs/13789599389",
-  "sort_id": 1739633561899,
-  "openlane_version": "OpenLane2 2.2.9",
-  "pdk_version": "open_pdks 0fe599b2afb6708d281543108caf8310912f54af"
-}

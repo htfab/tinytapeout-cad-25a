@@ -1,9 +1,0 @@
-{
-  "app": "Tiny Tapeout tt10 8f10bc8c",
-  "repo": "https://github.com/SimoneGuglielmino/I2C_register",
-  "commit": "060d2ad7bf25b576712a430e9c7f52935fbe32a5",
-  "workflow_url": "https://github.com/SimoneGuglielmino/I2C_register/actions/runs/13748776760",
-  "sort_id": 1739632834664,
-  "openlane_version": "OpenLane2 2.2.9",
-  "pdk_version": "open_pdks 0fe599b2afb6708d281543108caf8310912f54af"
-}

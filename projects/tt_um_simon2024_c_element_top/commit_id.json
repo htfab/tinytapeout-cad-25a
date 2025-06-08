@@ -1,9 +1,0 @@
-{
-  "app": "Tiny Tapeout tt10 8f10bc8c",
-  "repo": "https://github.com/simon2024/tt10v",
-  "commit": "9bfa6cbe51c3d15e214d104eb4e2676a585411ce",
-  "workflow_url": "https://github.com/simon2024/tt10v/actions/runs/13762866311",
-  "sort_id": 1741571119639,
-  "openlane_version": "OpenLane2 2.2.9",
-  "pdk_version": "open_pdks 0fe599b2afb6708d281543108caf8310912f54af"
-}

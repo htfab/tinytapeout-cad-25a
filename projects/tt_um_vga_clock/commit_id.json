@@ -1,9 +1,0 @@
-{
-  "app": "Tiny Tapeout tt10 2036138b",
-  "repo": "https://github.com/mattvenn/tt08-vga-clock",
-  "commit": "3dbf4c08dbfe21d39603d2121dc41bd2c8650a0f",
-  "workflow_url": "https://github.com/mattvenn/tt08-vga-clock/actions/runs/13035790235",
-  "sort_id": 1731493052267,
-  "openlane_version": "OpenLane2 2.2.9",
-  "pdk_version": "open_pdks 0fe599b2afb6708d281543108caf8310912f54af"
-}
